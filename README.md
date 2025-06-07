@@ -11,7 +11,10 @@
 
 🛠️ **Paradigmas y enfoque:**  
 ✔️ Programación funcional  
+✔️ Programación imperativa, modular, orientada a objetos
+✔️ Programación lógica
 ✔️ Estructuras de datos avanzadas  
+✔️ Optimización de algoritmos
 
 🖥️ **Computación & optimización:**  
 ✔️ Arquitectura y funcionamiento de computadoras  
