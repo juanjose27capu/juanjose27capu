@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Juan  
+# 👋 ¡Hola! Soy Juanjo  
 🚀 Programador en formación con experiencia en diversos lenguajes y paradigmas. Apasionado por la optimización de procesos, la eficiencia computacional y la aplicación de matemáticas en la programación.  
 
 📊 Actualmente, estoy diseñando un **software de gestión contable y ventas**, enfocado en mejorar la transparencia administrativa y simplificar la gestión empresarial.  
